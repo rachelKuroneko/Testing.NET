@@ -12,6 +12,7 @@ namespace WebApplication1
         protected void Page_Load(object sender, EventArgs e)
         {
             // IsPostBack tells whether page is on its initial load, it prevents duplicate
+            // here is another comment 
             if (!IsPostBack) { }
         }
 
