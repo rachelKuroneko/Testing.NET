@@ -13,6 +13,7 @@ namespace WebApplication1
         {
             // IsPostBack tells whether page is on its initial load, it prevents duplicate
             // here is another comment 
+            // I'm going to add in another comment
             if (!IsPostBack) { }
         }
 
